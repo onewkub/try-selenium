@@ -46,7 +46,7 @@ async function ResetField() {
     }
 }
 
-async function editDescriotion(bid){
+async function editDescription(bid){
     const driver = await new Builder()
     .forBrowser('chrome')
     .build();
@@ -73,7 +73,7 @@ async function editDescriotion(bid){
 async function main(){
     await SumbitBlog()
     await ResetField()
-    await editDescriotion();
+    await editDescription();
 }
 
 main()
