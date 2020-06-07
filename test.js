@@ -70,10 +70,33 @@ async function editDescription(bid){
     }
 }
 
+async function deleteBlog(bid){
+    const driver = await new Builder()
+    .forBrowser('chrome')
+    .build();
+    try {
+        const blogID = bid || '5edcb6b56f799821a2bf6b27'
+        await driver.get('http://localhost:8080/listblog')
+        await driver.findElement(By.id('menu')).click()
+        await driver.wait(until.elementLocated(By.id(`delete-${blogID}`)), 2000)
+        await driver.findElement(By.id(`delete-${blogID}`)).click()
+        await driver.wait(until.elementTextIs(body, 'This is new Long Content'), 2000)
+
+    }
+    catch (err) {
+        console.log(err)
+        await driver.quit()
+    }
+    finally {
+        await driver.quit()
+    }
+}
+
 async function main(){
     await SumbitBlog()
     await ResetField()
     await editDescription();
+	await delteBlog();
 }
 
 main()
