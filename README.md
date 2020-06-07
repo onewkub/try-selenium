@@ -12,22 +12,25 @@ node test.js
 
 ## Test path
 
-- Post Blog
-	- Diagram:
+### Post Blog
+
+- Diagram:
+
 <img align="center" src="img/diagram/Post-Blog.png" width="400px">
 
-	- UI:
+- UI:
+
 <img src="img/UI/Home.png">
 
 <img src="/img/UI/Home-Validator.png">
 
-- Edit Blog:
+### Edit Blog:
 
-	- Diaagram:
+- Diaagram:
 
 <img align="center" src="img/diagram/Edit-Blog.png" width="400px">
 
-	- UI:
+- UI:
 
 <img src="img/UI/Blog.png">
 
