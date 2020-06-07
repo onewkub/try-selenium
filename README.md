@@ -24,6 +24,8 @@ node test.js
 
 <img src="img/UI/Home.png">
 
+___
+
 <img src="/img/UI/Home-Validator.png">
 
 - Code:
@@ -87,6 +89,8 @@ async function ResetField() {
 
 <img src="img/UI/Blog.png">
 
+___
+
 <img src="img/UI/Blog-edit.png">
 
 - Code:
@@ -121,7 +125,7 @@ async function editDescription(bid){
 - Diagram
 
 <p align="center">
-  <img align="center" src="img/diagram/Delete-Blog.png" width="400px">
+  <img align="center" src="img/diagram/Delete-Blog.png" width="300px">
 </p>
 
 - UI:
