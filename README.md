@@ -14,7 +14,7 @@ node test.js
 
 - Post Blog
 	- Diagram:
-<img src="img/diagram/Post-Blog.png" width="400px">
+<img align="center" src="img/diagram/Post-Blog.png" width="400px">
 
 	- UI:
 <img src="img/UI/Home.png">
@@ -25,7 +25,7 @@ node test.js
 
 	- Diaagram:
 
-<img src="img/diagram/Edit-Blog.png" width="400px">
+<img align="center" src="img/diagram/Edit-Blog.png" width="400px">
 
 	- UI:
 
