@@ -14,14 +14,14 @@ node test.js
 
 - Post Blog
 	- Diagram:
-![Post-diagram](img/diagram/Post-Blog.png)
+![Post-diagram](img/diagram/Post-Blog.png =400x)
 	- UI:
 ![Post-UI](img/UI/Home.png)
-![Post-UI-Validator](/img/UI/Home-Validator.png)
+![Post-UI-Validator](/img/UI/Home-Validator.png =400x)
 
 - Edit Blog:
 	- Diaagram:
-![Edit-diagram](img/diagram/Delete-Blog.png)
+![Edit-diagram](img/diagram/Delete-Blog.png =400x)
 	- UI:
 ![Blog](img/UI/Blog.png)
-![EditBlog](img/UI/Blog-edit.png)
+![EditBlog](img/UI/Blog-edit.png =400x)
