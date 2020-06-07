@@ -27,7 +27,7 @@ node test.js
 <img src="/img/UI/Home-Validator.png">
 
 - Code:
-```
+```javascript
 async function SumbitBlog() {
     const driver = await new Builder()
     .forBrowser('chrome')
@@ -90,7 +90,7 @@ async function ResetField() {
 <img src="img/UI/Blog-edit.png">
 
 - Code:
-```
+```javascript
 async function editDescription(bid){
     const driver = await new Builder()
     .forBrowser('chrome')
