@@ -129,7 +129,7 @@ async function editDescription(bid){
 <img src="img/UI/Blog-edit.png">
 
 - Code:
-```
+```javascript
 async function deleteBlog(bid){
     const driver = await new Builder()
     .forBrowser('chrome')
