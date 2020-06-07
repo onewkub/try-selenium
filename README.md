@@ -17,18 +17,19 @@ node test.js
 <img src="img/diagram/Post-Blog.png" width="400px">
 
 	- UI:
-<img src="img/UI/Home.png" width="400px">
+<img src="img/UI/Home.png">
 
-<img src="/img/UI/Home-Validator.png " width="400px">
+<img src="/img/UI/Home-Validator.png">
 
 - Edit Blog:
 
 	- Diaagram:
 
+<img src="img/diagram/Edit-Blog.png" width="400px">
 
 	- UI:
 
-<img src="img/UI/Blog.png" width="400px">
+<img src="img/UI/Blog.png">
 
-<img src="img/UI/Blog-edit.png " width="400px">
+<img src="img/UI/Blog-edit.png">
 
