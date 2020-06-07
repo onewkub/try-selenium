@@ -16,7 +16,9 @@ node test.js
 
 - Diagram:
 
-<img align="center" src="img/diagram/Post-Blog.png" width="400px">
+<p align="center">
+  <img src="img/diagram/Post-Blog.png" width="400px">
+</p>
 
 - UI:
 
@@ -28,7 +30,9 @@ node test.js
 
 - Diaagram:
 
-<img align="center" src="img/diagram/Edit-Blog.png" width="400px">
+<p align="center">
+  <img align="center" src="img/diagram/Edit-Blog.png" width="400px">
+</p>
 
 - UI:
 
